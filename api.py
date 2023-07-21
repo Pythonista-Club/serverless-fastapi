@@ -11,4 +11,4 @@ def get_root():
     """_summary_
     Baseline method of the application
     """
-    return {"resp":"Welcome for the Pythonista Club! "}
+    return {"resp":"Welcome Lambda, to the Pythonista Club! "}
